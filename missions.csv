@@ -1,0 +1,4 @@
+id,title,description,start_date,end_date,recurring
+1,Clean Park,Organize a park cleanup,2024-01-01,2024-01-10,true
+2,Food Drive,Collect canned goods,2024-02-15,2024-02-20,false
+3,Community Meeting,Discuss future plans,2024-03-01,2024-03-01,true
